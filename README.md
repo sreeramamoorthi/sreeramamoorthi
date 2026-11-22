@@ -34,7 +34,7 @@
 
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/sreeramamoorthi/sreeramamoorthi/main/code-typing.gif" alt="Developer illustration" width="320" />
+      <img src="https://res.cloudinary.com/sreeram-cloud/video/upload/w_400/v1795347209/Code_typing_oecbby.gif" alt="Developer illustration" width="320" />
     </td>
   </tr>
 </table>
